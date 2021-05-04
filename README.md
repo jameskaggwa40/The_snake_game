@@ -8,4 +8,4 @@ The classic snake game. Made with pygame.
 # How to run the game 
 python snake.py
 
-copy right ssekitoleko james kaggwa @ jim-web.online, +256709750227
+copy right ssekitoleko james kaggwa @ jim-web.online, +256709750227, jimcraftjs@gmail.com
